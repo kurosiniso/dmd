@@ -1,1 +1,1 @@
-CI trigger marker created by connector test on 2026-11-08. This file can be deleted.
+CI trigger marker updated 2026-11-08 after enabling Actions. Safe to delete this file.
